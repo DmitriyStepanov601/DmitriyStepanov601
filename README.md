@@ -8,7 +8,7 @@ In parallel with this, I studied relational databases.
 
 After 4 years, I started learning the Java programming language, which is more focused on server-side development. 
 But before that, as I felt for myself, during the well-known pandemic, I practiced using the old Swing graphics library, 
-which is currently practically not used anywhere except for some companies. Below I will give examples of these works.
+which is currently practically not used anywhere except for some companies. 
 
 I am currently studying JS and its ecosystem, in particular the React framework.
 
