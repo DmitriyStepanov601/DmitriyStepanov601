@@ -12,6 +12,9 @@ which is currently practically not used anywhere except for some companies.
 
 I am currently studying JS and its ecosystem, in particular the React framework.
 
+### My scientific article: 
+Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). URL: https://studvestnik.ru/journal/stud/herald/196 (accessed: 02/04/2022).
+
 ## 📈 GitHub Stats
 
 ![DmitriyStepanov601 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmitriyStepanov601&count_private=true&hide=contribs&show_icons=true&theme=radical)
