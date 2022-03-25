@@ -13,7 +13,8 @@ which is currently practically not used anywhere except for some companies.
 I am currently studying JS and its ecosystem, in particular the React framework.
 
 ### My scientific article: 
-Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). URL: https://studvestnik.ru/journal/stud/herald/196 (accessed: 02/04/2022).
+Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). 
+URL: https://www.elibrary.ru/item.asp?id=48048725
 
 ## 📈 GitHub Stats
 
