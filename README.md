@@ -6,6 +6,8 @@ My name is Dmitry, I am 24 years old. I have been studying programming since 201
 
 After 4 years, I started learning the Java programming language, which is more focused on server-side development. But before that, as I felt for myself, during the well-known pandemic, I practiced using the old Swing graphics library, which is currently practically not used anywhere except for some companies. 
 
+![apps](https://user-images.githubusercontent.com/61186198/176729764-10be83f8-d931-4c07-8531-afb480418716.png)
+
 ## Diplom project
 
 Текст:
