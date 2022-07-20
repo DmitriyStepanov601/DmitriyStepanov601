@@ -1,6 +1,11 @@
-## About me
+# Frontend React JS Developer
 
-My name is Dmitry, I am 24 years old. I have been studying programming since 2013. At that time, I considered programming languages such as C, C++, C#, where I performed small tasks. 
+My name is Dmitry, I am 24 years old. I have been studying programming since 2013. 
+
+## Current Tech Stack
+
+<b>Additional skills:</b> C# (WinForms), Java (Swing Library)
+
 
 ## First projects
 
