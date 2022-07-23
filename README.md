@@ -17,8 +17,6 @@ The picture shows a desktop application written in C# using WinForms, which incl
 
 Within the framework of the diploma project, it was proposed to improve the work of the advisory and educational center "Path to Health", which consisted in the development of an online store on any content management system (CMS). Among the huge list of CMS systems, CMS WordPress was chosen, which has a large number of various plugins for various purposes.
 
-The presented pictures show the appearance of the online store, namely the main page, which presents the services provided by the center and the page telling about the organization itself. Eventually, the developed online store was transferred to the organization for implementation.
-
 ### My scientific article: 
 Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). 
 URL: https://www.elibrary.ru/item.asp?id=48048725
