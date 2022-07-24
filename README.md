@@ -4,10 +4,17 @@ My name is Dmitry, I am 24 years old. I have been studying programming since 201
 
 ## Current Tech Stack
 
+ - React JS
+ - Tailwind CSS
+
 <b>Additional skills:</b> C# (WinForms), Java (Swing Library)
 
 
 ## First projects
+
+
+
+## Other projects
 
 The picture shows a desktop application written in C# using WinForms, which includes several developed games, as part of learning another language - Java 8.
 
