@@ -12,7 +12,11 @@ My name is Dmitry, I am 24 years old. I have been studying programming since 201
 
 ## First projects
 
-![ezgif-5-12c55f7471](https://user-images.githubusercontent.com/61186198/180663402-3d88a97c-481d-4a22-9e5a-886636ec9334.gif)      ![ezgif-5-c61b301504](https://user-images.githubusercontent.com/61186198/180663405-dc1ec803-5a97-4ef8-88e5-5da100e7a319.gif)
+![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                          ![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                             ![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                           
+
+
+
+
 
 
 
