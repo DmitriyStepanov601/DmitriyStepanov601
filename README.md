@@ -7,19 +7,23 @@ My name is Dmitry, I am 24 years old. I have been studying programming since 201
  - React JS
  - Tailwind CSS
 
-<b>Additional skills:</b> C# (WinForms), Java (Swing Library)
+<b>Additional skills:</b> 
+ - C# (WinForms) 
+ - Java (Swing Library)
 
 
 ## First projects
 
-![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                          ![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                             ![ezgif-5-ba0f853c63](https://user-images.githubusercontent.com/61186198/180663676-ebc7086f-d096-4b44-8be6-201b20a7fbba.gif)                           
+Weather | Text to Speech
+  :---:       | :---:    
+![ezgif-3-4409eb262d](https://user-images.githubusercontent.com/61186198/180789883-9851383b-dd0a-4341-875f-82f72053d34f.gif) |  ![ezgif-3-5c71469764](https://user-images.githubusercontent.com/61186198/180792346-7c0adf2f-e8b4-4c54-8ef8-923525731c40.gif) 
 
 
+### Food Recipe 
+![142764473-439182fb-b4c3-44ff-aa12-0b8c564705fb](https://user-images.githubusercontent.com/61186198/180792655-1c233aca-3da7-46bf-914f-befefb72109e.gif)
 
-
-
-
-
+### Movie Search 
+![147678327-286e9936-914b-4a88-8c93-db5572eb8bb6](https://user-images.githubusercontent.com/61186198/180792683-9fb608da-8002-494f-ab2d-a62dd8c4f709.gif)
 
 ## Other projects
 
